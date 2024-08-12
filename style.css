@@ -1,0 +1,27 @@
+.my-button {
+    background-color: #523a28;
+    border-radius: 999px;
+    border-color: transparent;
+    text-align: center;
+}
+
+h1{
+    color:#523a28
+}
+
+.centered-element{
+    margin: auto;
+}
+
+h2{
+    color:#523a28
+}
+
+.rounded-corner{
+    border-radius: 18px;
+}
+
+table{
+    background-color: #222
+    ;
+}
